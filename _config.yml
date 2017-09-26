@@ -1,0 +1,19 @@
+# Site settings
+title: CS2016
+email: cs16@kluniversity.in
+description: "Course materials and notes for class CS2016 - KLUniversity"
+baseurl: ""
+url: "http://cs16.github.io"
+twitter_username: cs16
+github_username:  cs16
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
